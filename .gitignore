@@ -1,0 +1,14 @@
+.DS_Store
+node_modules/
+npm-debug.log
+dist/
+built/
+/.idea
+coverage/
+.nyc_output/
+/reports
+selenium-debug.log
+.rpt2_cache/
+*.map
+.rpt2_cache
+.rts2_cache/

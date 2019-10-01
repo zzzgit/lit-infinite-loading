@@ -1,0 +1,7 @@
+parserOptions:
+    sourceType: "module"
+env:
+    browser: true
+extends: ["google", "janus/basic", "janus/unicorn", "janus/node", "janus/promise", "janus/security", "janus/array", "janus/lit"]
+globals:
+    NODE_ENV: readonly
